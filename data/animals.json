@@ -126,6 +126,15 @@
         "hungry"
       ],
       "id": "12"
+    },
+    {
+      "name": "luca",
+      "species": "lion",
+      "diet": "carnivore",
+      "personalityTraits": [
+        "anxious"
+      ],
+      "id": "13"
     }
   ]
 }
